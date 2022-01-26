@@ -1,3 +1,6 @@
+
+![upic-github](https://user-images.githubusercontent.com/77155006/151118423-bf44ce04-8b25-439e-8195-5ec703ce28b5.jpg)
+
 My name is Yuri Yarkov, I live in Moscow, Russia.
 
 I'm a student at School 21 (Russian version of international 42 School).
